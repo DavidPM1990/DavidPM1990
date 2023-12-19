@@ -4,7 +4,11 @@
 ```js
 
 conts David = {
-  tehnologies: ['js', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL']
+
+  tehnologies: ['js', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL'],
+
+  passions: 'Web Development', 'Hard Working', 'constant learning',
+
 }
 
 
