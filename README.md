@@ -4,11 +4,8 @@
 ```js
 
 conts David = {
-  tehnologies: ['js', 'html']
+  tehnologies: ['js', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL']
 }
-
-<!--
-**DavidPM1990/DavidPM1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
