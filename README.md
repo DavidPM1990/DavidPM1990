@@ -5,7 +5,9 @@
 
 conts David = {
 
-  tehnologies: ['js', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL'],
+  rol: 'Full Stack Web Developer',
+
+  tehnologies: ['js', 'React', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL'],
 
   passions: 'Web Development', 'Hard Working', 'constant learning',
 
