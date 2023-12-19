@@ -9,6 +9,8 @@ conts David = {
 
   passions: 'Web Development', 'Hard Working', 'constant learning',
 
+  contact: 'https://www.linkedin.com/in/david-pardo-mart%C3%ADn-a0b36824b/'
+
 }
 
 
