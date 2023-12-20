@@ -5,7 +5,7 @@
 
 ```js
 
-conts David = {
+const David = {
 
   rol: 'Full Stack Web Developer',
 
