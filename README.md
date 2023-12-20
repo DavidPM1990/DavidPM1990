@@ -9,9 +9,9 @@ const David = {
 
   rol: 'Full Stack Web Developer',
 
-  tehnologies: ['js', 'React', 'html', 'CSS', 'phyon', 'node', 'express', 'NuxtJs', 'Vuetify' 'Tailwind', 'MongoDB', 'MySQL'],
+  tehnologies: ['JS', 'React', 'HTML', 'CSS', 'Phyton', 'Node', 'Express', 'NuxtJs', 'Vuetify' 'Tailwind', 'MongoDB', 'MySQL'],
 
-  passions: 'Web Development', 'Hard Working', 'constant learning',
+  passions: 'Web Development', 'Hard Working', 'Constant Learning',
 
   contact: 'https://www.linkedin.com/in/david-pardo-mart%C3%ADn-a0b36824b/'
 
