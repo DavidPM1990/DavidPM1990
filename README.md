@@ -7,7 +7,7 @@ conts David = {
 
   rol: 'Full Stack Web Developer',
 
-  tehnologies: ['js', 'React', 'html', 'CSS', 'phyon', 'node', 'Tailwind', 'MongoDB', 'MySQL'],
+  tehnologies: ['js', 'React', 'html', 'CSS', 'phyon', 'node', 'express', 'NuxtJs', 'Vuetify' 'Tailwind', 'MongoDB', 'MySQL'],
 
   passions: 'Web Development', 'Hard Working', 'constant learning',
 
