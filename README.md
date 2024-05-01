@@ -9,7 +9,7 @@ const David = {
 
   rol: 'Full Stack Web Developer',
 
-  tehnologies: ['JS', 'React', 'HTML', 'CSS', 'Phyton', 'Node', 'Express', 'NuxtJs', 'Vuetify' 'Tailwind', 'MongoDB', 'MySQL'],
+  tehnologies: ['JS', 'React', 'Python', 'Flask', 'SQL', 'SCRUM', 'HTML', 'CSS', 'Phyton', 'Node', 'Express', 'NuxtJs', 'Vuetify' 'Tailwind', 'MongoDB', 'MySQL'],
 
   passions: 'Web Development', 'Hard Working', 'Constant Learning',
 
